@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private Button send;
     private EditText edt;
 
+    /*testing*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
